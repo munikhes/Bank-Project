@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+button {
+  background-color:red; 
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+body{
+  background-image: url("https://img.freepik.com/free-photo/transparent-bills-with-buildings_1160-900.jpg?w=1060&t=st=1664360915~exp=1664361515~hmac=6ab8a5ef98bafff3932f3b4883f6884e06787f42a66383bc986c0c7803b6fcaa");
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+
